@@ -30,22 +30,3 @@ int main()
 
 	return 0;
 }	
-
-/*
-#include<stdio.h>
-#include<stdlib.h>
-#include "SubtractionLibrary.h"
-
-int main()
-{
-	float x, y;
-	printf("Enter two numbers: ");
-	scanf_s("%f%f", &x, &y);
-
-	float answer = subtract(x, y);
-
-	printf("%f - %f = %f", x, y, answer);
-
-	return 0;
-}
-*/
