@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CoolCadSample1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+  LINK : 0 new modules and 1 (out of 40) modules have changed since prior linking
+  Generating non-SAFESEH image.
+  Starting pass 2
+       main.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  CoolCadSample1.vcxproj -> C:\Users\gregd\source\repos\CoolCadSample1\Debug\UserInterface.exe
